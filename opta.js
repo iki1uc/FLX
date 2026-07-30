@@ -1,3 +1,5 @@
+import { Vector } from "./vector.js";
+
 export class Opta {
     constructor(vector){
         this.vector = vector;
